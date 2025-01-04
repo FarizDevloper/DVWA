@@ -21,7 +21,7 @@ Whether you're just starting in web security or you're a seasoned pro, DVWA prov
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dvwa.git
+   git clone https://github.com/yourusername/dvwa.git](https://github.com/FarizDevloper/DVWA.git
 
 Install dependencies:
 

@@ -52,8 +52,7 @@ For any questions or suggestions, feel free to reach out on GitHub Issues or ema
 
 🔒 Happy Hacking! 🕵️‍♀️ Stay safe and always follow ethical guidelines. 🙌
 
-yaml
-Copy code
+
 
 ---
 

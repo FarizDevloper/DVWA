@@ -65,3 +65,12 @@ For any questions or suggestions, feel free to reach out on GitHub Issues or ema
 This should help capture attention while providing all the necessary information about the project!
 
 
+
+## Credits
+
+Jika Anda ingin mendukung pengembangan lebih lanjut, beri kredit kepada pengembang berikut:
+
+
+<a class="pin-payment-button" href="https://saweria.co/adminpusat2024"><img src="https://pinpayments.com/pay-button.png" alt="Pay Now" width="86" height="38"></a>
+
+
